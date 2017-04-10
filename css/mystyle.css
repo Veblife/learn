@@ -3,12 +3,14 @@
     margin: 0 auto;
 
 }
-.strong-red{
-    font-weight:bolder ;
+
+.strong-red {
+    font-weight: bolder;
     color: red;
 
 }
-.light-blue{
+
+.light-blue {
     font-weight: lighter;
     color: blue;
 
